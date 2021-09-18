@@ -1,0 +1,70 @@
+body {
+    background: url(./imagens/9-97394_cs-go-wallpapers-cs-go-wallpaper-4k.jpg);
+}
+
+.backgraud {
+    background-color: rgba(30, 30, 30, 30)
+}
+
+#rectangle {
+    width: 100%;
+    height: 100%;
+    opacity: 25%;
+    background: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.logo {
+    position: absolute;
+    width: 187px;
+    height: 57px;
+    left: 115px;
+    top: 41px;
+}
+
+.prove {
+    position: absolute;
+    width: 705px;
+    height: 112px;
+    left: 392px;
+    top: 256px;
+}
+
+.nav-links {
+    position: absolute;
+    text-transform: uppercase;
+    text-align: center;
+    word-spacing: 31px;
+    left: 823px;
+    top: 40px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+#botao {
+    position: absolute;
+    top: 379px;
+    left: 530px;
+}
+
+#botao button {
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background: rgb(255, 159, 123);
+    color: white;
+}
+
+.text {
+    color: white;
+    position: absolute;
+    font-size: 15px;
+    top: 379px;
+    left: 770px;
+}
